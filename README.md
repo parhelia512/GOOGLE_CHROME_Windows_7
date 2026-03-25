@@ -8,6 +8,10 @@ Google Chrome for Windows 7 (cracklab) - COPY of **GOOGLE_CHROME_Windows_7_CRACK
 🦊 [Firefox 147.0.2](https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7/releases/tag/FURRYFOX_5)  
 🧅 [Tor 15.0.7](https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7/releases/tag/Tor57)
 
+# BE ADVICE! 💾 BACKUP YOU PROFILE FIRST!!!
+Please, see issues [#56](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7/issues/56) and [#4](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7/issues/4)  
+
+
 ## Chromium based projeects
 🦁 [Brave](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7/releases/tag/Brave_123)  
 🟢 [Spotify](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7/releases/tag/spotify_new)  
